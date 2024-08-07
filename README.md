@@ -1,6 +1,5 @@
 # React-Interview-Question
 
-# React interview Question
 1. What is React?
 2. What are components in React?
 3. Explain Virtual DOM?
